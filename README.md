@@ -1,2 +1,1 @@
-# PropertEase-ClientSide
-Real-Estate Web Application Front End
+# React Real Estate UI Design
